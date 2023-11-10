@@ -20,12 +20,12 @@ body, html {
 
 a:link {
   text-decoration: none;
-  color: #122337;
+  color: #fca311;
 }
 
 a:visited {
   text-decoration: none;
-  color: #122337;
+  color: #fca311;
 }
 
 a:hover {
@@ -37,7 +37,7 @@ a:active {
 }
 
 .header-container {
-  background-color: #122337;
+  background-color: #14213d;
   display: flex;
   align-items: center;
 }
@@ -66,15 +66,12 @@ a:active {
   display: block;
 }
 
-.nav {
-  background-color: #8D211F;
-  overflow: hidden;
-}
-
 .topnav {
-  width: 1470px;
-  margin-left: auto;
-  margin-right: auto;
+  width: 1450px;
+  margin-left: 100%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-100%, -50%);
   overflow: hidden;
 }
 
@@ -113,11 +110,9 @@ section.hero {
 }
 
 .row {
-  max-width: 1470px;
-  padding-bottom: 20px;
-  padding-top: 20px;
+  max-width: 70%;
   margin: auto;
-  overflow: auto;
+  overflow: hidden;
 }
 
 .leftcolumn {   
