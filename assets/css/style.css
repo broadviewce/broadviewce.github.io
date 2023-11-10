@@ -17,6 +17,10 @@ body, html {
   font-family: Arial, sans-serif;
 }
 
+hr.new1 {
+  border-top: 1px solid #fca311;
+  max-width: 70%;
+}
 
 a:link {
   text-decoration: none;
@@ -37,7 +41,6 @@ a:active {
 }
 
 .header-container {
-  background-color: #14213d;
   align-items: center;
 }
 
@@ -81,7 +84,7 @@ a:active {
   padding: 10px;
   text-decoration: none;
   font-weight: bold;
-  font-size: 17px;
+  font-size: 20px;
 }
 
 /* Change the color of links on hover */
@@ -91,21 +94,14 @@ a:active {
 }
 
 section.hero {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  height: 150px;
   background-size: cover;
   background-position: center;
   color: #fff;
   text-align: center;
   padding: 80px 0;
-}
-
-.hero-text {
-  position: relative;
-  top: 50%;
-  bottom: 50%;
-}
-
-.hero-text h1 {
-  font-size: 36px;
 }
 
 .row {
