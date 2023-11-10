@@ -38,7 +38,6 @@ a:active {
 
 .header-container {
   background-color: #14213d;
-  display: flex;
   align-items: center;
 }
 
@@ -61,18 +60,18 @@ a:active {
 }
 
 .logo img {
-  max-height: 100%;
-  max-width: 100%;
   display: block;
 }
 
 .topnav {
-  width: 1450px;
-  margin-left: 100%;
   position: absolute;
   top: 50%;
+  left: 100%;
   transform: translate(-100%, -50%);
-  overflow: hidden;
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
 }
 
 .topnav a {
@@ -113,6 +112,8 @@ section.hero {
   max-width: 70%;
   margin: auto;
   overflow: hidden;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .leftcolumn {   
