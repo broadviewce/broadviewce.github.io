@@ -41,6 +41,7 @@ a:active {
 }
 
 .header-container {
+  background-color: #14213d;
   align-items: center;
 }
 
@@ -94,8 +95,6 @@ a:active {
 }
 
 section.hero {
-  margin-top: 50px;
-  margin-bottom: 50px;
   height: 150px;
   background-size: cover;
   background-position: center;
