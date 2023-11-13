@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Broadview County Executive's Office</title>
+    <meta property="og:site_name" content="Broadview County Executive's Office" />
+    <meta property="og:title" content="Executive Order Establishing A Joint Communications Task Force" />
+    <meta property="og:description" content="An Executive Order establishing a Joint Task Force to assist in dispatching E-911 emergency calls, providing for communications between law enforcement officers, and assisting the local law enforcement in their stated missions." />
+    <meta property="og:image" content="/assets/images/press-header.png" />
+    <link rel="icon" type="image/x-icon" href="/assets/images/logo.png">
+    <link rel="stylesheet" href="/assets/css/style.css">
+  </head>
+<body>
+  <!-- HEADER STARTS HERE -->
+  <header>
+    <div class="header-container">
+      <section>
+        <div class="row" style="padding-top: 0; padding-bottom: 0; position: relative;">
+          <div class="leftcolumn">
+            <div class="logo">
+              <img src="/assets/images/Header.png" alt="Header Image">
+            </div>
+          </div>
+          <div class="rightcolumn" style="position: absolute;top: 50%;left: 100%;transform: translate(-100%,-50%);width: 100%;">
+            <div class="topnav">
+              <a href="/">HOME</a>
+              <a href="/press-office">PRESS RELEASES</a>
+              <a href="/my-priorities">MY PRIORITIES</a>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </header>
+  
+  <section style="padding-top: 50px;">
+    <div style="max-width: 70%; margin-left: auto; margin-right: auto;">
+      <h2 style="text-align: center;">Executive Order Establishing A Joint Communications Task Force</h2>
+      <p1 style="display: block; text-align: center;"><br>November 13, 2023<br><br></p1>
+      <p1><br>     I, TaxesArentAwesome, by virtue of the authority vested in me by the Charter of Broadview County and other applicable laws in my official capacity as County Executive of Broadview County, Florida, in order to supplement the operations of local law enforcement which are currently obstructed by regulatory statutes, do hereby order as follows:</p1>
+      <p1><br><br>     (a) ESTABLISHMENT— There is hereby established the County Joint Task Force on Communications & Dispatching (hereinafter referred to as the "Joint Task Force"). The full resources of the Broadview County Sheriff's Office shall be pledged to the establishment of the Joint Task Force.</p1>
+      <p1><br><br>     (b) MEMBERSHIP— The Joint Task Force shall be composed of law enforcement officers from the Broadview County Sheriff's Office, Broadview County Fire & Rescue, Leesburg Police Department, non-law enforcement civilian personnel, and any other agencies and authorities that are necessary or appropriate to further the mission of the Joint Task Force.</p1>
+      <p1><br><br>     (c) TERM & MISSION— The Joint Task Force shall be established as a permanent task force with the mission of dispatching E-911 emergency calls, providing for communications between law enforcement officers, and assisting the local law enforcement in their stated missions.</p1>
+      <p1><br><br>     (d) LEADERSHIP— The Joint Task Force shall be overseen by the County Sheriff of the Broadview County Sheriff's Office, who may, from time to time, provide directives and orders to the Joint Task Force on its operations, and shall serve in such role during their term as County Sheriff.</p1>
+      <p1><br><br>     (d) SEVERABILITY— This Executive Order shall be severable in that any section, subsection, or clause that is unconstitutional shall be struck while maintaining the remaining integrity of the Ordinance.</p1>
+      <p1 style="text-align:right; display:block; font-variant: small-caps;"><br><br><br>Taxes A. Awesome</p1>
+      <p1><br>The Executive's Office.</p1>
+    </div>
+  </section>
+
+  <!-- FOOTER STARTS HERE  <img src="/assets/images/logo.png" alt="State Attorney Logo"> -->
+  <div style="background-image: url('/assets/images/Footer.png');" class="footer-image">
+    <div class="footer">
+    </div>
+  </div>
+</body>
+</html>
