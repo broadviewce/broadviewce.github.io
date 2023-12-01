@@ -65,6 +65,8 @@ a:active {
 
 .logo img {
   display: block;
+  max-width: 100%;
+  padding: 10px 0px 10px 0px;
 }
 
 .topnav {
@@ -88,6 +90,49 @@ a:active {
   font-size: 20px;
 }
 
+.mobile-nav {
+  background-color: #8D211F;
+  overflow: hidden;
+  display: block;
+}
+
+@media only screen and (min-width: 600px) {
+  .mobile-nav {
+    display: none;
+  }
+  .hero {
+    height: 45%
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .topnav {
+      display: none;
+  }
+  .hero {
+    height: 30%
+  }
+}
+
+.mobile-topnav {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+
+.mobile-topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 13px;
+}
+
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: #122337;
@@ -95,12 +140,10 @@ a:active {
 }
 
 section.hero {
-  height: 150px;
   background-size: cover;
   background-position: center;
   color: #fff;
   text-align: center;
-  padding: 80px 0;
 }
 
 .row {
